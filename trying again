@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+    <title>My projects</title>
+</head>
+<body>   
+    <h1>UW Bothell projects</h1>
+    <nav>
+        <img src = "http://www.uwb.edu/getattachment/news/bigW-110px.jpg" alt="news"            /><a href="http://www.uwb.edu">UW Bothell</a>
+                <br/>
+                <br/>
+        <img src="http://www.uwb.edu/getattachment/news/best-bang-110px.jpg"            alt="money"/><a href="http://www.uwb.edu/news">Learn more about the university.</a>
+    </nav>
